@@ -1,8 +1,5 @@
 # QR Code Maker 🔗
 
-## Developer 👨‍💻
-- **Developed by: EmreFix
-
 A fast, modern-interfaced QR Code generator running on your local web server. With this application, you can convert any link into a QR code and optionally add your own logo (PNG, JPG) right in the center.
 
 ## Features ✨
@@ -24,3 +21,6 @@ A fast, modern-interfaced QR Code generator running on your local web server. Wi
 ```bash
 git clone [https://github.com/EmreFix/qr-code-maker.git](https://github.com/EmreFix/qr-code-maker.git)
 cd qr-code-maker
+
+## Developer 👨‍💻
+- **Developed by: EmreFix
