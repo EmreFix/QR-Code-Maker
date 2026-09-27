@@ -1,6 +1,6 @@
 ## Developer 👨‍💻
 
-- **Developed by: EmreFix readme içine sona bunu yazar mısın
+- **Developed by**: EmreFix 
 
 # QR Code Maker 🔗
 
