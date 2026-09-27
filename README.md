@@ -19,5 +19,5 @@ A fast, modern-interfaced QR Code generator running on your local web server. Wi
 
 **1. Clone the repository to your local machine:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/qr-code-maker.git](https://github.com/YOUR_USERNAME/qr-code-maker.git)
+git clone [https://github.com/EmreFix/qr-code-maker.git](https://github.com/YOUR_USERNAME/qr-code-maker.git)
 cd qr-code-maker
