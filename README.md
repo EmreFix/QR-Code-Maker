@@ -13,6 +13,19 @@ A fast, modern-interfaced QR Code generator running on your local web server. Wi
 - **High Error Correction:** Generates QR codes with the `ERROR_CORRECT_H` level to ensure high readability even with logos.
 - **Safe Shutdown:** Completely terminates the background server process with a single click from the user interface.
 
+## Install the required libraries:
+Ensure you have Python installed, then run:
+- **pip install -r requirements.txt**
+## Usage 🚀
+For Windows Users:
+Simply double-click the QR.bat file in the folder. The application will automatically launch in your default browser within seconds, completely hiding the background terminal. To stop the application, just click the red "❌ Uygulamayı Komple Kapat" button in the web interface.
+
+Tip: You can right-click the .bat file to create a desktop shortcut and set the provided qrlogo.ico file as its icon for a better desktop experience.
+
+## For macOS/Linux Users:
+Run the Python script directly via your terminal:
+- **python qr_olusturucu.py**
+
 ## Files Included 📂
 - `qr_olusturucu.py`: The main Python script containing the Flask server and QR generation logic.
 - `QR.bat`: A quick-start executable for Windows users to run the application silently in the background.
